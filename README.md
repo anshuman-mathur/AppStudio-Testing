@@ -6,7 +6,7 @@ These functionalities include:
 
 
 ## Requirements for Holistic testing.
-The latest version of AppStudio Desktop application (3.1.102) and Player (3.1.32) build is required.
+The latest version of AppStudio Desktop application (3.1.116) and Player (3.1.39) build is required.
 
 To download the latest version of AppStudio Desktop and Player, go to the download section of AppStudio on the early adopter community site using the link below.
 
