@@ -14,4 +14,5 @@ The Latest iOS version of AppStudio is available for download on TestFlight. Ple
 
 ## Resources
 AppStudio Beta Programme on Early Adopter site: https://earlyadopter.esri.com/key/AppStudio
+
 Feedback survey: https://arcg.is/1qz55S
