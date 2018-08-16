@@ -8,6 +8,6 @@ These functionalities include:
 ## Requirements for Holistic testing.
 The latest version of AppStudio Desktop application (3.1.102) and Player (3.1.32) build is required.
 
-To download the latest version of AppStudio Desktop and Player, go to the download section of AppStudio on the early adopter community site or via Box https://esri.box.com/v/appstudio-holistic-testing
+To download the latest version of AppStudio Desktop and Player, go to the download section of AppStudio on the early adopter community site using the link https://earlyadopter.esri.com/key/AppStudio
 
 The Latest iOS version of AppStudio is available for download on TestFlight. Please contact one of the holistic leads if you need help getting connected on TestFlight.
