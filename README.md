@@ -16,3 +16,8 @@ The Latest iOS version of AppStudio is available for download on TestFlight. Ple
 AppStudio Beta Programme on Early Adopter site: https://earlyadopter.esri.com/key/AppStudio
 
 Feedback survey: https://arcg.is/1qz55S
+
+Cloud Make URL for the Holistic Testing: https://appstudio.arcgis.com/holistic2018/api
+
+Group ID for the new templates: 85ac8224df78428facc0533f8c26d938
+
