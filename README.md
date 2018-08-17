@@ -21,3 +21,8 @@ Cloud Make URL for the Holistic Testing: https://appstudio.arcgis.com/holistic20
 
 Group ID for the new templates: 85ac8224df78428facc0533f8c26d938
 
+The GitHub repo for the Holistic testing will not be available Monday 19th Aug 2018. Please log in your feedback or bugs as issues over the weekend.
+
+You can reach us for any queries you may have on our GeoNet Forum
+
+https://community.esri.com/groups/appstudio
